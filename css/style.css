@@ -154,7 +154,7 @@ a:hover, footer a:hover {  color: #ED1C24; }
 .art-container {
   position: relative;
   max-width: 1120px; /*can be adjusted down to 740px */
-  margin: 10px auto;
+  margin: 10px auto 0px;
   padding: 0 5px;
   background-color: #eee; /*remove*/
   height: 300px; /*remove*/
