@@ -201,7 +201,7 @@ a:hover, footer a:hover {  color: #ED1C24; }
     margin-right: 12px;
   }
 
-  .c740 { display: none; }
+.c740 { display: none; }
 
 @media only screen and (max-width: 1120px) { 
 
@@ -214,6 +214,7 @@ a:hover, footer a:hover {  color: #ED1C24; }
 
   .c740 { display: inline-block; }
   .c990 { display: none; }
+  .art-container { width: 790px; }
 
 }
 
